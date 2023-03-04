@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <sstream>
  
-const char* ssid = "Cluecon23"; //Change to the wifi ssid
-const char* password =  "Signalwire123"; //Change to the wifi password
+const char * ssid = "Cluecon23"; //Change to the wifi ssid
+const char * password = "Signalwire123"; //Change to the wifi password
 
 const char * space_url = "replace-me.signalwire.com"; //Replace with your Signalwire space name
 const char * api_path = "/api/laml/2010-04-01/Accounts/"; 
