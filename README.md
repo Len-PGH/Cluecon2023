@@ -6,3 +6,6 @@ Cluecon 2023
 
 * Send sms when wifi connects to ESP32
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_wifi_connected_sms.ino
+
+* Push button with DH11 temperature sensor: Sends an sms with the current temperature from the DH11
+  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.ino
