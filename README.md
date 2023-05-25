@@ -9,3 +9,6 @@ Cluecon 2023
 
 * Push button with DH11 temperature sensor: Sends an sms with the current temperature from the DH11
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.ino
+
+* Push button: Initiates a phone call with the push of a button
+  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_phone_call.ino
