@@ -10,6 +10,9 @@ Cluecon 2023
 * Push button with DH11 temperature sensor: Sends an sms with the current temperature from the DH11
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.ino
 
+![image](https://github.com/Len-PGH/Cluecon2023/assets/13131198/ae366d4d-d592-4066-9ab9-84b9211fe337)
+
+
 This is an Arduino code that uses an ESP32 board to read the state of a button and send an SMS message using the Signalwire service when the button is pressed. It also includes a DHT11 temperature sensor to read the current temperature and include it in the SMS message.
 
 Here's a breakdown of the code:
