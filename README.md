@@ -1,5 +1,37 @@
 # Cluecon2023
-Cluecon 2023
+
+
+Welcome to the maker challenge at Cluecon 2023.  This years challenge is to connect a phone call from an Arduino or ESP32 board.  You can use any sensors provided at the maker tables.  The Arduiono sketch ino examples were made for an ESP32-WROVER Board (FNK0060) kit https://www.amazon.com/gp/product/B0BMQ2CPQN/  You can form a team to create something awesome or create something awesome solo if you like!
+
+These are examples ranging from when wifi connects a call is made to more complex examples of including a weather sensor and push button.
+
+
+
+![PXL_20230602_170117825](https://github.com/Len-PGH/Cluecon2023/assets/13131198/d3ed7511-c1f1-4c02-b7c8-f2b12958e470)
+
+### Things you will need:
+
+1. ESP32-WROVER Board 
+2. DH11 temperature sensor (optional)
+3. 4 prong push button switch (optional)
+4. Breadboard (optional)
+5. 10K ohm resistor (optional)
+6. Wires
+7. USB cord
+8. Computer
+9. Arduino sketch software installed https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
+
+.
+
+.
+
+-------------------
+## Please Note:: For SMS examples. You are welcome to use the SMS examples but the examples will only work if your Signalwire Space has a registered SMS campain. More info can be found at https://signalwire.com/blogs/industry/navigating-the-campaign-registry-with-signalwire
+---------------------
+
+.
+
+.
 
 * Push button:  Sends an sms when the button is pushed
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_sms.ino
