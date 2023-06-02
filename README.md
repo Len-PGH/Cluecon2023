@@ -6,10 +6,14 @@ Welcome to the maker challenge at Cluecon 2023.  This years challenge is to conn
 The examples scale from if the ESP32 board connects to a wifi connection a phone call is made to more complex examples of including a weather sensor and push button.
 
 
-
+<p align="center">
+  
 ![PXL_20230602_170117825](https://github.com/Len-PGH/Cluecon2023/assets/13131198/d3ed7511-c1f1-4c02-b7c8-f2b12958e470)
+  
+</p>
 
 ### Things you will need:
+---------------
 
 1. ESP32-S3 WROOM Board 
 2. DH11 temperature sensor (optional)
@@ -33,17 +37,21 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 
 .
 
+---------------
 * Push button:  Sends an sms when the button is pushed
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_sms.ino
-
+---------------
 * Send sms when wifi connects to ESP32
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_wifi_connected_sms.ino
-
+---------------
 * Push button with DH11 temperature sensor: Sends an sms with the current temperature from the DH11
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.ino
 
+<p align="center">
+  
 ![image](https://github.com/Len-PGH/Cluecon2023/assets/13131198/ae366d4d-d592-4066-9ab9-84b9211fe337)
 
+ </p> 
 
 This is an Arduino code that uses an ESP32 board to read the state of a button and send an SMS message using the Signalwire service when the button is pressed. It also includes a DHT11 temperature sensor to read the current temperature and include it in the SMS message.
 
@@ -87,9 +95,10 @@ Here's a breakdown of the code:
 
 That's the basic overview of the code. Keep in mind that you need to replace certain values such as the Wi-Fi credentials, Signalwire space details, and pin numbers with your own configurations.
 
+---------------
 * Push button: Initiates a phone call with the push of a button.
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_phone_call.ino
-
+---------------
 * Push button: Initiates a phone call and sms message with the push of a button.
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_call_and_sms.ino
 
