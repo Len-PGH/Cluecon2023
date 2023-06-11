@@ -15,15 +15,16 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 ### Things you will need:
 ---------------
 
-1. ESP32-S3 WROOM Board 
-2. DH11 temperature sensor (optional)
-3. 4 prong push button switch (optional)
-4. Breadboard (optional)
-5. 10K ohm resistor (optional)
-6. Wires
-7. USB cord
-8. Computer
-9. Arduino sketch software installed https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
+1. ESP32-S3 WROOM Board
+2. ESP32-S3 WROOM setup instructions https://freenove.com/fnk0060/ 
+3. DH11 temperature sensor (optional)
+4. 4 prong push button switch (optional)
+5. Breadboard (optional)
+6. 10K ohm resistor (optional)
+7. Wires
+8. USB cord
+9. Computer
+10. Arduino sketch software installed https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
 
 .
 
