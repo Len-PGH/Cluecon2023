@@ -100,6 +100,7 @@ That's the basic overview of the code. Keep in mind that you need to replace cer
   - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_phone_call.ino
 ---------------
 * Push button: Initiates a phone call and sms message with the push of a button.
-  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_call_and_sms.ino
+  - sketch: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_call_and_sms.ino
+  - doc: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_call_and_sms.md
 
 
