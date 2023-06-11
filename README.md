@@ -39,13 +39,16 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 
 ---------------
 * Push button:  Sends an sms when the button is pushed
-  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_sms.ino
+  - sketch: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_sms.ino
+  - doc: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_sms.md
 ---------------
 * Send sms when wifi connects to ESP32
-  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_wifi_connected_sms.ino
+  - sketch: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_wifi_connected_sms.ino
+  - doc: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_wifi_connected_sms.md
 ---------------
 * Push button with DH11 temperature sensor: Sends an sms with the current temperature from the DH11
-  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.ino
+  - sketch: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.ino
+  - doc: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_dh11.md
 
 <p align="center">
   
@@ -97,7 +100,8 @@ That's the basic overview of the code. Keep in mind that you need to replace cer
 
 ---------------
 * Push button: Initiates a phone call with the push of a button.
-  - https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_phone_call.ino
+  - sketch: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_phone_call.ino
+  - doc: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_phone_call.md
 ---------------
 * Push button: Initiates a phone call and sms message with the push of a button.
   - sketch: https://github.com/Len-PGH/Cluecon2023/blob/main/Signalwire_button_call_and_sms.ino
