@@ -15,12 +15,12 @@ const char * uurl = "https://len.signalwire.com/laml-bins/bfccee39-219b-4c28-965
 const char * sms_url = "https://example.signalwire.com/api/laml/2010-04-01/Accounts/{account_sid}/Messages.json"; //Replace with your Signalwire space SMS URL
 const char * call_url = "https://example.signalwire.com/api/laml/2010-04-01/Accounts/{account_sid}/Calls.json"; //Replace with your Signalwire space call URL
 
-const int buttonPin = 4; // the pin number for the button
+const int buttonPin = 14; // the pin number for the button
 int buttonPushCounter = 0;  // counter for the number of button presses
 int buttonState = 0;        // current state of the button
 int lastButtonState = 0;    // previous state of the button
 
-#define DHTPIN 5 // Replace with the actual pin number connected to the DHT11 sensor
+#define DHTPIN 21 // Replace with the actual pin number connected to the DHT11 sensor
 #define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);
