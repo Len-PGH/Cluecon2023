@@ -13,7 +13,7 @@ const char * tooo = "17244445555"; //Replace with the number you send sms to
 const char * from = "14125551234"; //Replace with the number from your Signalwire space
 const char * sw_token = "PT123"; //Replace with your Signalwire space API Token
  
-const int buttonPin = 5; // the pin number for the button
+const int buttonPin = 14; // the pin number for the button
 int buttonPushCounter = 0;  // counter for the number of button presses
 int buttonState = 0;        // current state of the button
 int lastButtonState = 0;    // previous state of the button
