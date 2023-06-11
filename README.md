@@ -16,7 +16,7 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 ---------------
 
 1. ESP32-S3 WROOM Board
-2. ESP32-S3 WROOM setup instructions https://freenove.com/fnk0060/ 
+2. ESP32-S3 WROOM setup instructions [https://freenove.com/fnk0060/ ](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip)
 3. DH11 temperature sensor (optional)
 4. 4 prong push button switch (optional)
 5. Breadboard (optional)
