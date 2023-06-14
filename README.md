@@ -24,7 +24,7 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 7. Wires
 8. USB cord
 9. Computer
-10. Arduino sketch software installed https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
+10. Arduino IDE (sketch software) installed https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
 
 .
 ![ESP32_Pinout](https://github.com/Len-PGH/Cluecon2023/assets/13131198/5299ce58-95a9-4804-9b1a-0e51573f9f35)
