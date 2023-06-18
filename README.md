@@ -1,7 +1,7 @@
 # Cluecon2023
 
 
-Welcome to the maker challenge at Cluecon 2023.  This years challenge is to connect a phone call from an Arduino or ESP32 board.  You can use any sensors provided at the maker tables.  The Arduiono sketch ino examples were made for an ESP32-S3 WROOM Board (FNK0060) kit https://www.amazon.com/gp/product/B0BMQ2CPQN/  You can form a team to create something awesome or create something awesome solo if you like!
+Welcome to the maker challenge at Cluecon 2023.  This years challenge is to connect a phone call from an Arduino or ESP32 board.  You can use any sensors provided at the maker tables.  The Arduiono sketch ino examples were made for an ESP32-S3 WROOM Board (FNK0082) kit https://www.amazon.com/gp/product/B0BMQ2CPQN/  You can form a team to create something awesome or create something awesome solo if you like!
 
 The examples scale from if the ESP32 board connects to a wifi connection a phone call is made to more complex examples of including a weather sensor and push button.
 
