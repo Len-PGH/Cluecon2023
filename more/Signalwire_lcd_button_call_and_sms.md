@@ -1,5 +1,8 @@
 # Monitoring Temperature and Displaying on LCD using ESP32 and DHT11
 
+![image](https://github.com/Len-PGH/Cluecon2023/assets/13131198/092c2d1b-82dc-4710-b27b-9e8a2f630d32)
+
+
 In this tutorial, we will learn how to monitor temperature using the DHT11 sensor and display the temperature readings on an LCD screen using the ESP32 microcontroller. We will also demonstrate how to send SMS and make a call using the Signalwire API based on button input.
 
 ## Components Used
