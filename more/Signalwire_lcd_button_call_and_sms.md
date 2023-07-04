@@ -6,7 +6,8 @@ In this tutorial, we will learn how to monitor temperature using the DHT11 senso
 - ESP32 microcontroller
 - DHT11 temperature and humidity sensor
 - 16x2 LCD screen (HD44780 compatible)
-- Push button
+- Push button (Adafruit Colorful Square Tactile Button Switch)
+- Vibration Sensor Module SW-420 (Can be used in place of push button)
 
 ## Libraries Required
 - DHT sensor library (DHT.h)
