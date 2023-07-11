@@ -8,7 +8,8 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 
 <p align="center">
   
-![PXL_20230602_170117825](https://github.com/Len-PGH/Cluecon2023/assets/13131198/d3ed7511-c1f1-4c02-b7c8-f2b12958e470)
+![image](https://github.com/Len-PGH/Cluecon2023/assets/13131198/a4db6512-fe8c-46cc-8ffc-c0c45dfa2bda)
+
   
 </p>
 
