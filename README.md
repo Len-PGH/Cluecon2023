@@ -33,7 +33,7 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 .
 
 -------------------
-## Please Note:: For SMS examples. You are welcome to use the SMS examples but the examples will only work if your Signalwire Space has a registered SMS campain. More info can be found at https://signalwire.com/blogs/industry/navigating-the-campaign-registry-with-signalwire. If you didn't want to setup a campaign just yet, there is also an opinion for (PFT) Platform Free Trial. [PFT docs](https://developer.signalwire.com/guides/messaging/platform-free-trial/).
+## Please Note:: For SMS examples. You are welcome to use the SMS examples but the examples will only work if your Signalwire Space has a registered SMS campain. More info can be found at https://signalwire.com/blogs/industry/navigating-the-campaign-registry-with-signalwire. If you didn't want to setup a campaign just yet, there is also an option for (PFT) Platform Free Trial. [PFT docs](https://developer.signalwire.com/guides/messaging/platform-free-trial/).
 ---------------------
 
 .
