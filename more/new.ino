@@ -177,7 +177,7 @@ void loop() {
 
           // Set the authorization header
           String authHeader = "Authorization";
-          String authValue = "Basic ZmQwYTMzNjQtYThiMS00NjFjLTk1MTItMDU0NWJjZTkwYjY1OlBUMmI4YzRjN2UzM2QxZTU0ZWVhYjkyMjFlMTM4MDEzYTlkMjFiY2FkMzg2ZmY5ZjAz";
+          String authValue = "Basic ZmQwYTMzNjQtYThiMS00NjFjLTk1MTItMDU0NWJjZTkwYjY1OlBUMmI4YzRjN2UzM2QxZTU0ZWVhYjkyMjFlMTM4MDEzYTlkMjFiY2FkMzg2ZmY5Z";
 
         // Set the request URL
           String url = "https://len.signalwire.com/api/laml/2010-04-01/Accounts/fd0a3364-a8b1-461c-9512-0545bce90b65/Messages.json?Status=received&direction=inbound&page_size=1&fields=body";
