@@ -6,6 +6,8 @@ Welcome to the maker challenge at Cluecon 2023.  This years challenge is to conn
 The examples scale from if the ESP32 board connects to a wifi connection a phone call is made to more complex examples of including a weather sensor and push button.
 
 
+
+
 <p align="center">
   
 ![image](https://github.com/Len-PGH/Cluecon2023/assets/13131198/a4db6512-fe8c-46cc-8ffc-c0c45dfa2bda)
@@ -26,6 +28,7 @@ The examples scale from if the ESP32 board connects to a wifi connection a phone
 8. USB cord
 9. Computer
 10. Arduino IDE (sketch software) installed https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
+11. https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 .
 ![ESP32_Pinout](https://github.com/Len-PGH/Cluecon2023/assets/13131198/5299ce58-95a9-4804-9b1a-0e51573f9f35)
